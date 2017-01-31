@@ -6,12 +6,6 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-header {
-  padding-bottom: 10px;
-  padding-top: 10px;
-  color: #2d3c49;
-}
-
 body {
   color: #2d3c49;
 }
@@ -56,6 +50,16 @@ p {
 .featured-item {
   width: calc(33% - 20px);
   margin-right: 10px;
+}
+
+.featured-image {
+  width: 100%;
+}
+
+#header {
+  padding-bottom: 10px;
+  padding-top: 10px;
+  color: #2d3c49;
 }
 
 #logo {
